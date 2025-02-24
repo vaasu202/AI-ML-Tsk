@@ -1,4 +1,4 @@
-````markdown
+
 # Credit Card Fraud Detection
 
 ## Overview
@@ -120,12 +120,8 @@ The output includes:
 
 ## Author
 ```sh
-This project was implemented as part of an initiative to detect fraudulent transactions using machine learning models.
+VS
 ```
 
-## License
-```sh
-This project is licensed under the MIT License.
-```
-````
+
 
